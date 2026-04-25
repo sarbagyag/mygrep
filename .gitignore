@@ -1,0 +1,7 @@
+# Compiled output
+*.o
+*.a
+*.so
+
+# Executables (no extension on macOS/Linux)
+mygrep
